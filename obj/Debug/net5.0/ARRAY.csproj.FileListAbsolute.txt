@@ -1,0 +1,16 @@
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ARRAY.exe
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ARRAY.deps.json
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ARRAY.runtimeconfig.json
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ARRAY.runtimeconfig.dev.json
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ARRAY.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ref\ARRAY.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\bin\Debug\net5.0\ARRAY.pdb
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.csproj.AssemblyReference.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.AssemblyInfo.cs
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ref\ARRAY.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.pdb
+C:\Users\new user\Desktop\ASSESSMENT  2\ARRAY\obj\Debug\net5.0\ARRAY.genruntimeconfig.cache
